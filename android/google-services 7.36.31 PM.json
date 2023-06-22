@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093744069883",
+    "firebase_url": "https://dailynotes-5720e-default-rtdb.firebaseio.com",
+    "project_id": "dailynotes-5720e",
+    "storage_bucket": "dailynotes-5720e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093744069883:android:d92c54c31747393b6e745e",
+        "android_client_info": {
+          "package_name": "com.notec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093744069883-reeg17ake9991qmd5mfv55et51rrvf15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpo5TlWNqA7BktkNs60aB4L1LcROx_164"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093744069883-reeg17ake9991qmd5mfv55et51rrvf15.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093744069883-p4jn5q5hc7g9sv9hudv91ru5rtkfbn3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.note.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
